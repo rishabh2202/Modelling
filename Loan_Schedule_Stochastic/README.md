@@ -57,8 +57,7 @@ To evaluate the investment's return profile by simulating:
 | Excel      | Financial modeling and loan schedule     |
 | Python     | Simulation and analysis                  |
 | xlwings    | Bridge between Excel and Python          |
-| NumPy      | Random number generation and math        |
-| Pandas     | Data manipulation                        |
+| NumPy      | Random number generation and math        |                        |
 | Matplotlib | Visualization of results       |
 
 ## Project Structure
